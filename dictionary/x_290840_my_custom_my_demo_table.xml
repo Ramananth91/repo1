@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Demo Table" max_length="40" name="x_290840_my_custom_my_demo_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="My String Field 1" max_length="40" name="my_string_field_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
